@@ -1,0 +1,49 @@
+body{
+    margin:0;
+    
+}
+
+
+/* HEADER */
+.netflix-logo{
+    width: 6em;
+}
+
+.account{
+    width: 3em;
+}
+/* MAIN */
+h1{
+    color:white;
+}
+
+.text-main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+footer p{
+    font-size: 0.8rem;
+}
+
+.hov:hover{
+     transform: scale(1.5);
+     z-index: 2;
+}
+
+.ho2:hover{ 
+    transform: scale(1.1);
+    color: white,  !important;
+    background-color: green!important;
+}
+
+
+
+
+
+
+
